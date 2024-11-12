@@ -1,1 +1,2 @@
 homeassistant/home-assistant:latest
+whyet/awtrix2:latest
